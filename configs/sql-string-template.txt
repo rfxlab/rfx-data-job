@@ -1,0 +1,3 @@
+SQL_system_get_date =>
+	SELECT now()::date AS current_date
+;
